@@ -1,0 +1,821 @@
+metal,year,count
+"Nickel, Leachable",2000,8
+"Nickel, Leachable",2001,6
+"Nickel, Leachable",2002,2
+"Nickel, Leachable",2009,2
+"Nickel, Leachable",Total,18
+Chromium Hexavalent,2008,121
+Chromium Hexavalent,2009,52
+Chromium Hexavalent,2010,18
+Chromium Hexavalent,2011,185
+Chromium Hexavalent,2012,556
+Chromium Hexavalent,2013,527
+Chromium Hexavalent,2014,447
+Chromium Hexavalent,2015,232
+Chromium Hexavalent,Total,2138
+"Copper, Leachable",2001,6
+"Copper, Leachable",2002,2
+"Copper, Leachable",2009,2
+"Copper, Leachable",Total,10
+"Mercury, Leachable",2001,6
+"Mercury, Leachable",2009,2
+"Mercury, Leachable",Total,8
+"Chromium, Dissolved",2000,2043
+"Chromium, Dissolved",2001,1813
+"Chromium, Dissolved",2002,1997
+"Chromium, Dissolved",2003,1479
+"Chromium, Dissolved",2004,1474
+"Chromium, Dissolved",2005,1436
+"Chromium, Dissolved",2006,1445
+"Chromium, Dissolved",2007,1692
+"Chromium, Dissolved",2008,1088
+"Chromium, Dissolved",2009,920
+"Chromium, Dissolved",2010,902
+"Chromium, Dissolved",2011,934
+"Chromium, Dissolved",2012,4963
+"Chromium, Dissolved",2013,2241
+"Chromium, Dissolved",2014,1740
+"Chromium, Dissolved",2015,1606
+"Chromium, Dissolved",2016,1184
+"Chromium, Dissolved",2017,730
+"Chromium, Dissolved",2018,803
+"Chromium, Dissolved",2019,1619
+"Chromium, Dissolved",2020,534
+"Chromium, Dissolved",2021,1284
+"Chromium, Dissolved",2022,1383
+"Chromium, Dissolved",2023,1451
+"Chromium, Dissolved",Total,36761
+"Cadmium, Dissolved",2000,1630
+"Cadmium, Dissolved",2001,1478
+"Cadmium, Dissolved",2002,1412
+"Cadmium, Dissolved",2003,1752
+"Cadmium, Dissolved",2004,1507
+"Cadmium, Dissolved",2005,1570
+"Cadmium, Dissolved",2006,1283
+"Cadmium, Dissolved",2007,1599
+"Cadmium, Dissolved",2008,983
+"Cadmium, Dissolved",2009,1112
+"Cadmium, Dissolved",2010,1670
+"Cadmium, Dissolved",2011,3356
+"Cadmium, Dissolved",2012,5596
+"Cadmium, Dissolved",2013,2770
+"Cadmium, Dissolved",2014,2392
+"Cadmium, Dissolved",2015,2039
+"Cadmium, Dissolved",2016,1628
+"Cadmium, Dissolved",2017,1053
+"Cadmium, Dissolved",2018,1194
+"Cadmium, Dissolved",2019,2334
+"Cadmium, Dissolved",2020,1078
+"Cadmium, Dissolved",2021,1422
+"Cadmium, Dissolved",2022,2066
+"Cadmium, Dissolved",2023,2393
+"Cadmium, Dissolved",Total,45317
+Lead : Load,2002,3
+Lead : Load,2003,8
+Lead : Load,2004,8
+Lead : Load,2005,4
+Lead : Load,Total,23
+Chromium : Dry Wt,2000,64
+Chromium : Dry Wt,2001,46
+Chromium : Dry Wt,2002,111
+Chromium : Dry Wt,2003,51
+Chromium : Dry Wt,2004,152
+Chromium : Dry Wt,2005,132
+Chromium : Dry Wt,2006,33
+Chromium : Dry Wt,2007,38
+Chromium : Dry Wt,2008,3
+Chromium : Dry Wt,2009,24
+Chromium : Dry Wt,2012,30
+Chromium : Dry Wt,2021,31
+Chromium : Dry Wt,2022,22
+Chromium : Dry Wt,2023,26
+Chromium : Dry Wt,Total,763
+"Mercury, < 63 um : Dry Wt",2000,5
+"Mercury, < 63 um : Dry Wt",2001,9
+"Mercury, < 63 um : Dry Wt",2002,8
+"Mercury, < 63 um : Dry Wt",Total,22
+Chromium : HF Digest : Dry Wt,2008,30
+Chromium : HF Digest : Dry Wt,2009,10
+Chromium : HF Digest : Dry Wt,2010,10
+Chromium : HF Digest : Dry Wt,2011,30
+Chromium : HF Digest : Dry Wt,2012,20
+Chromium : HF Digest : Dry Wt,2013,57
+Chromium : HF Digest : Dry Wt,2014,33
+Chromium : HF Digest : Dry Wt,2015,38
+Chromium : HF Digest : Dry Wt,2016,59
+Chromium : HF Digest : Dry Wt,2017,26
+Chromium : HF Digest : Dry Wt,2018,30
+Chromium : HF Digest : Dry Wt,2019,18
+Chromium : HF Digest : Dry Wt,2020,10
+Chromium : HF Digest : Dry Wt,2021,53
+Chromium : HF Digest : Dry Wt,2022,48
+Chromium : HF Digest : Dry Wt,2023,36
+Chromium : HF Digest : Dry Wt,Total,508
+Mercury : HF Digest : Dry Wt,2008,30
+Mercury : HF Digest : Dry Wt,2009,10
+Mercury : HF Digest : Dry Wt,Total,40
+Mercury,2000,1154
+Mercury,2001,613
+Mercury,2002,1012
+Mercury,2003,885
+Mercury,2004,1075
+Mercury,2005,924
+Mercury,2006,799
+Mercury,2007,748
+Mercury,2008,733
+Mercury,2009,636
+Mercury,2010,741
+Mercury,2011,739
+Mercury,2012,689
+Mercury,2013,707
+Mercury,2014,536
+Mercury,2015,703
+Mercury,2016,351
+Mercury,2017,487
+Mercury,2018,369
+Mercury,2019,545
+Mercury,2020,332
+Mercury,2021,35
+Mercury,2022,300
+Mercury,2023,240
+Mercury,Total,15353
+Copper : Dry Wt,2000,78
+Copper : Dry Wt,2001,46
+Copper : Dry Wt,2002,111
+Copper : Dry Wt,2003,70
+Copper : Dry Wt,2004,152
+Copper : Dry Wt,2005,132
+Copper : Dry Wt,2006,33
+Copper : Dry Wt,2007,38
+Copper : Dry Wt,2008,3
+Copper : Dry Wt,2009,21
+Copper : Dry Wt,2010,1
+Copper : Dry Wt,2012,30
+Copper : Dry Wt,2021,31
+Copper : Dry Wt,2022,22
+Copper : Dry Wt,2023,26
+Copper : Dry Wt,Total,794
+Zinc : Dry Wt,2000,78
+Zinc : Dry Wt,2001,46
+Zinc : Dry Wt,2002,111
+Zinc : Dry Wt,2003,70
+Zinc : Dry Wt,2004,152
+Zinc : Dry Wt,2005,132
+Zinc : Dry Wt,2006,33
+Zinc : Dry Wt,2007,39
+Zinc : Dry Wt,2008,3
+Zinc : Dry Wt,2009,21
+Zinc : Dry Wt,2010,1
+Zinc : Dry Wt,2012,30
+Zinc : Dry Wt,2021,31
+Zinc : Dry Wt,2022,22
+Zinc : Dry Wt,2023,26
+Zinc : Dry Wt,Total,795
+Zinc,2000,12427
+Zinc,2001,9139
+Zinc,2002,11882
+Zinc,2003,12071
+Zinc,2004,12947
+Zinc,2005,12915
+Zinc,2006,12132
+Zinc,2007,12314
+Zinc,2008,11316
+Zinc,2009,11081
+Zinc,2010,11491
+Zinc,2011,7086
+Zinc,2012,8081
+Zinc,2013,6565
+Zinc,2014,3106
+Zinc,2015,2946
+Zinc,2016,1419
+Zinc,2017,1137
+Zinc,2018,978
+Zinc,2019,1419
+Zinc,2020,839
+Zinc,2021,836
+Zinc,2022,1509
+Zinc,2023,1563
+Zinc,Total,167199
+Copper : Wet Wt,2000,15
+Copper : Wet Wt,2001,15
+Copper : Wet Wt,2002,21
+Copper : Wet Wt,2003,21
+Copper : Wet Wt,2004,21
+Copper : Wet Wt,2005,37
+Copper : Wet Wt,2006,19
+Copper : Wet Wt,2007,18
+Copper : Wet Wt,2008,21
+Copper : Wet Wt,2009,17
+Copper : Wet Wt,2010,18
+Copper : Wet Wt,2011,16
+Copper : Wet Wt,2012,12
+Copper : Wet Wt,2013,12
+Copper : Wet Wt,2014,48
+Copper : Wet Wt,2015,15
+Copper : Wet Wt,2016,12
+Copper : Wet Wt,2017,9
+Copper : Wet Wt,2018,12
+Copper : Wet Wt,2019,12
+Copper : Wet Wt,2021,6
+Copper : Wet Wt,2022,6
+Copper : Wet Wt,2023,6
+Copper : Wet Wt,Total,389
+Lead : HF Digest : Dry Wt,2008,30
+Lead : HF Digest : Dry Wt,2009,10
+Lead : HF Digest : Dry Wt,2010,10
+Lead : HF Digest : Dry Wt,2011,30
+Lead : HF Digest : Dry Wt,2012,20
+Lead : HF Digest : Dry Wt,2013,57
+Lead : HF Digest : Dry Wt,2014,33
+Lead : HF Digest : Dry Wt,2015,38
+Lead : HF Digest : Dry Wt,2016,59
+Lead : HF Digest : Dry Wt,2017,26
+Lead : HF Digest : Dry Wt,2018,30
+Lead : HF Digest : Dry Wt,2019,18
+Lead : HF Digest : Dry Wt,2020,10
+Lead : HF Digest : Dry Wt,2021,53
+Lead : HF Digest : Dry Wt,2022,48
+Lead : HF Digest : Dry Wt,2023,36
+Lead : HF Digest : Dry Wt,Total,508
+"Nickel, HF Digest : Dry Wt",2008,30
+"Nickel, HF Digest : Dry Wt",2009,10
+"Nickel, HF Digest : Dry Wt",2010,10
+"Nickel, HF Digest : Dry Wt",2011,30
+"Nickel, HF Digest : Dry Wt",2012,20
+"Nickel, HF Digest : Dry Wt",2013,57
+"Nickel, HF Digest : Dry Wt",2014,33
+"Nickel, HF Digest : Dry Wt",2015,38
+"Nickel, HF Digest : Dry Wt",2016,59
+"Nickel, HF Digest : Dry Wt",2017,26
+"Nickel, HF Digest : Dry Wt",2018,30
+"Nickel, HF Digest : Dry Wt",2019,18
+"Nickel, HF Digest : Dry Wt",2020,10
+"Nickel, HF Digest : Dry Wt",2021,53
+"Nickel, HF Digest : Dry Wt",2022,48
+"Nickel, HF Digest : Dry Wt",2023,36
+"Nickel, HF Digest : Dry Wt",Total,508
+Chromium,2000,2332
+Chromium,2001,1739
+Chromium,2002,2122
+Chromium,2003,1824
+Chromium,2004,2010
+Chromium,2005,1794
+Chromium,2006,1893
+Chromium,2007,2078
+Chromium,2008,1372
+Chromium,2009,1071
+Chromium,2010,1056
+Chromium,2011,1291
+Chromium,2012,4075
+Chromium,2013,2398
+Chromium,2014,2098
+Chromium,2015,2122
+Chromium,2016,1035
+Chromium,2017,966
+Chromium,2018,822
+Chromium,2019,1292
+Chromium,2020,755
+Chromium,2021,823
+Chromium,2022,1514
+Chromium,2023,1503
+Chromium,Total,39985
+"Cadmium, < 63 um : Dry Wt",2000,18
+"Cadmium, < 63 um : Dry Wt",2001,26
+"Cadmium, < 63 um : Dry Wt",2002,20
+"Cadmium, < 63 um : Dry Wt",Total,64
+Copper,2000,3031
+Copper,2001,2310
+Copper,2002,2546
+Copper,2003,2702
+Copper,2004,2820
+Copper,2005,2723
+Copper,2006,2502
+Copper,2007,2508
+Copper,2008,1735
+Copper,2009,1605
+Copper,2010,2327
+Copper,2011,2859
+Copper,2012,4354
+Copper,2013,2470
+Copper,2014,2276
+Copper,2015,2116
+Copper,2016,1163
+Copper,2017,1054
+Copper,2018,1017
+Copper,2019,1416
+Copper,2020,882
+Copper,2021,873
+Copper,2022,1554
+Copper,2023,1527
+Copper,Total,50370
+"Lead, Leachable",2009,2
+"Lead, Leachable",Total,2
+Sulphur : chromium reducible,2010,27
+Sulphur : chromium reducible,2011,12
+Sulphur : chromium reducible,Total,39
+Lead : Wet Wt,2000,19
+Lead : Wet Wt,2001,19
+Lead : Wet Wt,2002,47
+Lead : Wet Wt,2003,27
+Lead : Wet Wt,2004,23
+Lead : Wet Wt,2005,37
+Lead : Wet Wt,2006,25
+Lead : Wet Wt,2007,18
+Lead : Wet Wt,2008,21
+Lead : Wet Wt,2009,17
+Lead : Wet Wt,2010,18
+Lead : Wet Wt,2011,16
+Lead : Wet Wt,2012,12
+Lead : Wet Wt,2013,12
+Lead : Wet Wt,2014,48
+Lead : Wet Wt,2015,15
+Lead : Wet Wt,2016,12
+Lead : Wet Wt,2017,9
+Lead : Wet Wt,2018,12
+Lead : Wet Wt,2019,15
+Lead : Wet Wt,2020,14
+Lead : Wet Wt,2021,27
+Lead : Wet Wt,2022,15
+Lead : Wet Wt,2023,6
+Lead : Wet Wt,Total,484
+Tetramethyl Lead,2003,6
+Tetramethyl Lead,Total,6
+Nickel : Dry Wt,2000,74
+Nickel : Dry Wt,2001,46
+Nickel : Dry Wt,2002,111
+Nickel : Dry Wt,2003,52
+Nickel : Dry Wt,2004,152
+Nickel : Dry Wt,2005,132
+Nickel : Dry Wt,2006,33
+Nickel : Dry Wt,2007,38
+Nickel : Dry Wt,2008,3
+Nickel : Dry Wt,2009,24
+Nickel : Dry Wt,2010,1
+Nickel : Dry Wt,2012,30
+Nickel : Dry Wt,2021,31
+Nickel : Dry Wt,2022,22
+Nickel : Dry Wt,2023,26
+Nickel : Dry Wt,Total,775
+"Lead, Dissolved",2000,2499
+"Lead, Dissolved",2001,1949
+"Lead, Dissolved",2002,2147
+"Lead, Dissolved",2003,2142
+"Lead, Dissolved",2004,1953
+"Lead, Dissolved",2005,1960
+"Lead, Dissolved",2006,1684
+"Lead, Dissolved",2007,1921
+"Lead, Dissolved",2008,1222
+"Lead, Dissolved",2009,1311
+"Lead, Dissolved",2010,1828
+"Lead, Dissolved",2011,3500
+"Lead, Dissolved",2012,5629
+"Lead, Dissolved",2013,2757
+"Lead, Dissolved",2014,2371
+"Lead, Dissolved",2015,1996
+"Lead, Dissolved",2016,1624
+"Lead, Dissolved",2017,1051
+"Lead, Dissolved",2018,1193
+"Lead, Dissolved",2019,2347
+"Lead, Dissolved",2020,1078
+"Lead, Dissolved",2021,1422
+"Lead, Dissolved",2022,2066
+"Lead, Dissolved",2023,2393
+"Lead, Dissolved",Total,50043
+Mercury : Wet Wt,2000,19
+Mercury : Wet Wt,2001,19
+Mercury : Wet Wt,2002,47
+Mercury : Wet Wt,2003,27
+Mercury : Wet Wt,2004,23
+Mercury : Wet Wt,2005,37
+Mercury : Wet Wt,2006,25
+Mercury : Wet Wt,2007,18
+Mercury : Wet Wt,2008,21
+Mercury : Wet Wt,2009,17
+Mercury : Wet Wt,2010,18
+Mercury : Wet Wt,2011,16
+Mercury : Wet Wt,2012,12
+Mercury : Wet Wt,2013,12
+Mercury : Wet Wt,2014,48
+Mercury : Wet Wt,2015,15
+Mercury : Wet Wt,2016,12
+Mercury : Wet Wt,2017,9
+Mercury : Wet Wt,2018,12
+Mercury : Wet Wt,2019,15
+Mercury : Wet Wt,2020,14
+Mercury : Wet Wt,2021,27
+Mercury : Wet Wt,2022,15
+Mercury : Wet Wt,2023,24
+Mercury : Wet Wt,Total,502
+Cadmium : HF Digest : Dry Wt,2008,30
+Cadmium : HF Digest : Dry Wt,2009,10
+Cadmium : HF Digest : Dry Wt,2010,10
+Cadmium : HF Digest : Dry Wt,2011,30
+Cadmium : HF Digest : Dry Wt,2012,20
+Cadmium : HF Digest : Dry Wt,2013,57
+Cadmium : HF Digest : Dry Wt,2014,33
+Cadmium : HF Digest : Dry Wt,2015,38
+Cadmium : HF Digest : Dry Wt,2016,59
+Cadmium : HF Digest : Dry Wt,2017,26
+Cadmium : HF Digest : Dry Wt,2018,30
+Cadmium : HF Digest : Dry Wt,2019,18
+Cadmium : HF Digest : Dry Wt,2020,10
+Cadmium : HF Digest : Dry Wt,2021,53
+Cadmium : HF Digest : Dry Wt,2022,48
+Cadmium : HF Digest : Dry Wt,2023,36
+Cadmium : HF Digest : Dry Wt,Total,508
+"Chromium, Leachable : Dry Wt",2001,6
+"Chromium, Leachable : Dry Wt",2002,2
+"Chromium, Leachable : Dry Wt",Total,8
+Cadmium : Wet Wt,2000,19
+Cadmium : Wet Wt,2001,25
+Cadmium : Wet Wt,2002,53
+Cadmium : Wet Wt,2003,33
+Cadmium : Wet Wt,2004,31
+Cadmium : Wet Wt,2005,40
+Cadmium : Wet Wt,2006,28
+Cadmium : Wet Wt,2007,18
+Cadmium : Wet Wt,2008,21
+Cadmium : Wet Wt,2009,17
+Cadmium : Wet Wt,2010,18
+Cadmium : Wet Wt,2011,16
+Cadmium : Wet Wt,2012,12
+Cadmium : Wet Wt,2013,12
+Cadmium : Wet Wt,2014,48
+Cadmium : Wet Wt,2015,15
+Cadmium : Wet Wt,2016,12
+Cadmium : Wet Wt,2017,9
+Cadmium : Wet Wt,2018,12
+Cadmium : Wet Wt,2019,15
+Cadmium : Wet Wt,2020,14
+Cadmium : Wet Wt,2021,27
+Cadmium : Wet Wt,2022,15
+Cadmium : Wet Wt,2023,6
+Cadmium : Wet Wt,Total,516
+Copper : HF Digest : Dry Wt,2008,30
+Copper : HF Digest : Dry Wt,2009,10
+Copper : HF Digest : Dry Wt,2010,10
+Copper : HF Digest : Dry Wt,2011,30
+Copper : HF Digest : Dry Wt,2012,20
+Copper : HF Digest : Dry Wt,2013,57
+Copper : HF Digest : Dry Wt,2014,33
+Copper : HF Digest : Dry Wt,2015,38
+Copper : HF Digest : Dry Wt,2016,59
+Copper : HF Digest : Dry Wt,2017,26
+Copper : HF Digest : Dry Wt,2018,30
+Copper : HF Digest : Dry Wt,2019,18
+Copper : HF Digest : Dry Wt,2020,10
+Copper : HF Digest : Dry Wt,2021,53
+Copper : HF Digest : Dry Wt,2022,48
+Copper : HF Digest : Dry Wt,2023,36
+Copper : HF Digest : Dry Wt,Total,508
+"Cadmium, Leachable",2000,8
+"Cadmium, Leachable",2001,6
+"Cadmium, Leachable",2002,2
+"Cadmium, Leachable",2009,2
+"Cadmium, Leachable",Total,18
+"Chromium Hexavalent, Dissolved :- {Cr VI}",2016,235
+"Chromium Hexavalent, Dissolved :- {Cr VI}",2017,212
+"Chromium Hexavalent, Dissolved :- {Cr VI}",2018,224
+"Chromium Hexavalent, Dissolved :- {Cr VI}",2019,316
+"Chromium Hexavalent, Dissolved :- {Cr VI}",2020,44
+"Chromium Hexavalent, Dissolved :- {Cr VI}",2022,24
+"Chromium Hexavalent, Dissolved :- {Cr VI}",2023,8
+"Chromium Hexavalent, Dissolved :- {Cr VI}",Total,1063
+"Chromium, Leachable",2009,2
+"Chromium, Leachable",Total,2
+Lead : Dry Wt,2000,78
+Lead : Dry Wt,2001,46
+Lead : Dry Wt,2002,111
+Lead : Dry Wt,2003,70
+Lead : Dry Wt,2004,153
+Lead : Dry Wt,2005,132
+Lead : Dry Wt,2006,33
+Lead : Dry Wt,2007,39
+Lead : Dry Wt,2008,3
+Lead : Dry Wt,2009,21
+Lead : Dry Wt,2010,1
+Lead : Dry Wt,2012,30
+Lead : Dry Wt,2021,31
+Lead : Dry Wt,2022,22
+Lead : Dry Wt,2023,26
+Lead : Dry Wt,Total,796
+Cadmium,2000,3014
+Cadmium,2001,2150
+Cadmium,2002,2347
+Cadmium,2003,2554
+Cadmium,2004,2640
+Cadmium,2005,2505
+Cadmium,2006,2130
+Cadmium,2007,2231
+Cadmium,2008,1515
+Cadmium,2009,1408
+Cadmium,2010,2065
+Cadmium,2011,2756
+Cadmium,2012,4218
+Cadmium,2013,2270
+Cadmium,2014,2023
+Cadmium,2015,1897
+Cadmium,2016,990
+Cadmium,2017,916
+Cadmium,2018,790
+Cadmium,2019,1269
+Cadmium,2020,780
+Cadmium,2021,809
+Cadmium,2022,1490
+Cadmium,2023,1481
+Cadmium,Total,46248
+"Zinc, Dissolved",2000,2512
+"Zinc, Dissolved",2001,1881
+"Zinc, Dissolved",2002,2103
+"Zinc, Dissolved",2003,2459
+"Zinc, Dissolved",2004,2306
+"Zinc, Dissolved",2005,2392
+"Zinc, Dissolved",2006,2071
+"Zinc, Dissolved",2007,2316
+"Zinc, Dissolved",2008,1595
+"Zinc, Dissolved",2009,1649
+"Zinc, Dissolved",2010,2343
+"Zinc, Dissolved",2011,3858
+"Zinc, Dissolved",2012,5906
+"Zinc, Dissolved",2013,3072
+"Zinc, Dissolved",2014,2692
+"Zinc, Dissolved",2015,2375
+"Zinc, Dissolved",2016,2015
+"Zinc, Dissolved",2017,1289
+"Zinc, Dissolved",2018,1459
+"Zinc, Dissolved",2019,2582
+"Zinc, Dissolved",2020,1180
+"Zinc, Dissolved",2021,1533
+"Zinc, Dissolved",2022,2231
+"Zinc, Dissolved",2023,2506
+"Zinc, Dissolved",Total,56325
+Nickel : Wet Wt,2000,15
+Nickel : Wet Wt,2001,15
+Nickel : Wet Wt,2002,21
+Nickel : Wet Wt,2003,21
+Nickel : Wet Wt,2004,21
+Nickel : Wet Wt,2005,37
+Nickel : Wet Wt,2006,19
+Nickel : Wet Wt,2007,18
+Nickel : Wet Wt,2008,21
+Nickel : Wet Wt,2009,17
+Nickel : Wet Wt,2010,18
+Nickel : Wet Wt,2011,16
+Nickel : Wet Wt,2012,12
+Nickel : Wet Wt,2013,12
+Nickel : Wet Wt,2014,48
+Nickel : Wet Wt,2015,15
+Nickel : Wet Wt,2016,12
+Nickel : Wet Wt,2017,9
+Nickel : Wet Wt,2018,12
+Nickel : Wet Wt,2019,12
+Nickel : Wet Wt,2021,6
+Nickel : Wet Wt,2022,6
+Nickel : Wet Wt,2023,6
+Nickel : Wet Wt,Total,389
+"Lead, Leachable : Dry Wt",2000,8
+"Lead, Leachable : Dry Wt",2001,6
+"Lead, Leachable : Dry Wt",2002,2
+"Lead, Leachable : Dry Wt",Total,16
+Nickel,2000,2703
+Nickel,2001,2066
+Nickel,2002,2274
+Nickel,2003,2019
+Nickel,2004,2306
+Nickel,2005,1941
+Nickel,2006,1995
+Nickel,2007,2132
+Nickel,2008,1370
+Nickel,2009,1157
+Nickel,2010,1850
+Nickel,2011,2633
+Nickel,2012,4127
+Nickel,2013,2210
+Nickel,2014,1892
+Nickel,2015,1895
+Nickel,2016,1086
+Nickel,2017,982
+Nickel,2018,851
+Nickel,2019,1337
+Nickel,2020,822
+Nickel,2021,845
+Nickel,2022,1517
+Nickel,2023,1504
+Nickel,Total,43514
+"Zinc, Leachable",2000,8
+"Zinc, Leachable",2001,6
+"Zinc, Leachable",2002,2
+"Zinc, Leachable",2009,2
+"Zinc, Leachable",Total,18
+Lead,2000,2635
+Lead,2001,1934
+Lead,2002,2162
+Lead,2003,2343
+Lead,2004,2699
+Lead,2005,2589
+Lead,2006,2286
+Lead,2007,2254
+Lead,2008,1541
+Lead,2009,1408
+Lead,2010,2001
+Lead,2011,2717
+Lead,2012,4220
+Lead,2013,2323
+Lead,2014,2091
+Lead,2015,1959
+Lead,2016,1071
+Lead,2017,980
+Lead,2018,850
+Lead,2019,1337
+Lead,2020,831
+Lead,2021,845
+Lead,2022,1528
+Lead,2023,1513
+Lead,Total,46117
+"Nickel, Dissolved",2000,2174
+"Nickel, Dissolved",2001,1855
+"Nickel, Dissolved",2002,2043
+"Nickel, Dissolved",2003,1593
+"Nickel, Dissolved",2004,1647
+"Nickel, Dissolved",2005,1529
+"Nickel, Dissolved",2006,1539
+"Nickel, Dissolved",2007,1757
+"Nickel, Dissolved",2008,1080
+"Nickel, Dissolved",2009,1079
+"Nickel, Dissolved",2010,1761
+"Nickel, Dissolved",2011,3539
+"Nickel, Dissolved",2012,5691
+"Nickel, Dissolved",2013,2859
+"Nickel, Dissolved",2014,2435
+"Nickel, Dissolved",2015,2175
+"Nickel, Dissolved",2016,1659
+"Nickel, Dissolved",2017,1099
+"Nickel, Dissolved",2018,1267
+"Nickel, Dissolved",2019,2366
+"Nickel, Dissolved",2020,1082
+"Nickel, Dissolved",2021,1422
+"Nickel, Dissolved",2022,2066
+"Nickel, Dissolved",2023,2393
+"Nickel, Dissolved",Total,48110
+Tetraethyl Lead,2003,6
+Tetraethyl Lead,Total,6
+Mercury : Dry Wt,2000,64
+Mercury : Dry Wt,2001,45
+Mercury : Dry Wt,2002,110
+Mercury : Dry Wt,2003,59
+Mercury : Dry Wt,2004,159
+Mercury : Dry Wt,2005,138
+Mercury : Dry Wt,2006,39
+Mercury : Dry Wt,2007,43
+Mercury : Dry Wt,2008,10
+Mercury : Dry Wt,2009,9
+Mercury : Dry Wt,2010,16
+Mercury : Dry Wt,2011,37
+Mercury : Dry Wt,2012,50
+Mercury : Dry Wt,2013,56
+Mercury : Dry Wt,2014,33
+Mercury : Dry Wt,2015,38
+Mercury : Dry Wt,2016,59
+Mercury : Dry Wt,2017,26
+Mercury : Dry Wt,2018,30
+Mercury : Dry Wt,2019,16
+Mercury : Dry Wt,2020,10
+Mercury : Dry Wt,2021,22
+Mercury : Dry Wt,2022,26
+Mercury : Dry Wt,2023,30
+Mercury : Dry Wt,Total,1125
+"Copper, Dissolved",2000,11321
+"Copper, Dissolved",2001,8547
+"Copper, Dissolved",2002,10993
+"Copper, Dissolved",2003,11204
+"Copper, Dissolved",2004,11592
+"Copper, Dissolved",2005,11864
+"Copper, Dissolved",2006,11193
+"Copper, Dissolved",2007,11561
+"Copper, Dissolved",2008,10656
+"Copper, Dissolved",2009,10678
+"Copper, Dissolved",2010,11053
+"Copper, Dissolved",2011,7561
+"Copper, Dissolved",2012,9182
+"Copper, Dissolved",2013,6592
+"Copper, Dissolved",2014,2878
+"Copper, Dissolved",2015,2386
+"Copper, Dissolved",2016,1798
+"Copper, Dissolved",2017,1100
+"Copper, Dissolved",2018,1334
+"Copper, Dissolved",2019,2367
+"Copper, Dissolved",2020,1091
+"Copper, Dissolved",2021,1422
+"Copper, Dissolved",2022,2066
+"Copper, Dissolved",2023,2393
+"Copper, Dissolved",Total,162832
+Chromium : Wet Wt,2000,15
+Chromium : Wet Wt,2001,15
+Chromium : Wet Wt,2002,21
+Chromium : Wet Wt,2003,21
+Chromium : Wet Wt,2004,21
+Chromium : Wet Wt,2005,37
+Chromium : Wet Wt,2006,19
+Chromium : Wet Wt,2007,18
+Chromium : Wet Wt,2008,21
+Chromium : Wet Wt,2009,17
+Chromium : Wet Wt,2010,18
+Chromium : Wet Wt,2011,16
+Chromium : Wet Wt,2012,12
+Chromium : Wet Wt,2013,12
+Chromium : Wet Wt,2014,48
+Chromium : Wet Wt,2015,15
+Chromium : Wet Wt,2016,12
+Chromium : Wet Wt,2017,9
+Chromium : Wet Wt,2018,12
+Chromium : Wet Wt,2019,12
+Chromium : Wet Wt,2021,6
+Chromium : Wet Wt,2022,6
+Chromium : Wet Wt,2023,6
+Chromium : Wet Wt,Total,389
+"Mercury, Dissolved",2000,409
+"Mercury, Dissolved",2001,446
+"Mercury, Dissolved",2002,464
+"Mercury, Dissolved",2003,787
+"Mercury, Dissolved",2004,736
+"Mercury, Dissolved",2005,698
+"Mercury, Dissolved",2006,633
+"Mercury, Dissolved",2007,616
+"Mercury, Dissolved",2008,632
+"Mercury, Dissolved",2009,593
+"Mercury, Dissolved",2010,658
+"Mercury, Dissolved",2011,599
+"Mercury, Dissolved",2012,870
+"Mercury, Dissolved",2013,957
+"Mercury, Dissolved",2014,906
+"Mercury, Dissolved",2015,849
+"Mercury, Dissolved",2016,290
+"Mercury, Dissolved",2017,71
+"Mercury, Dissolved",2018,115
+"Mercury, Dissolved",2019,114
+"Mercury, Dissolved",2020,29
+"Mercury, Dissolved",2021,138
+"Mercury, Dissolved",2022,167
+"Mercury, Dissolved",2023,264
+"Mercury, Dissolved",Total,12041
+Cadmium : Dry Wt,2000,78
+Cadmium : Dry Wt,2001,47
+Cadmium : Dry Wt,2002,111
+Cadmium : Dry Wt,2003,74
+Cadmium : Dry Wt,2004,169
+Cadmium : Dry Wt,2005,154
+Cadmium : Dry Wt,2006,50
+Cadmium : Dry Wt,2007,51
+Cadmium : Dry Wt,2008,15
+Cadmium : Dry Wt,2009,32
+Cadmium : Dry Wt,2010,12
+Cadmium : Dry Wt,2011,14
+Cadmium : Dry Wt,2012,31
+Cadmium : Dry Wt,2013,2
+Cadmium : Dry Wt,2014,2
+Cadmium : Dry Wt,2015,1
+Cadmium : Dry Wt,2021,31
+Cadmium : Dry Wt,2022,22
+Cadmium : Dry Wt,2023,26
+Cadmium : Dry Wt,Total,922
+Zinc : HF Digest : Dry Wt+E5501,2008,30
+Zinc : HF Digest : Dry Wt+E5501,2009,10
+Zinc : HF Digest : Dry Wt+E5501,2010,10
+Zinc : HF Digest : Dry Wt+E5501,2011,30
+Zinc : HF Digest : Dry Wt+E5501,2012,20
+Zinc : HF Digest : Dry Wt+E5501,2013,57
+Zinc : HF Digest : Dry Wt+E5501,2014,33
+Zinc : HF Digest : Dry Wt+E5501,2015,38
+Zinc : HF Digest : Dry Wt+E5501,2016,59
+Zinc : HF Digest : Dry Wt+E5501,2017,26
+Zinc : HF Digest : Dry Wt+E5501,2018,30
+Zinc : HF Digest : Dry Wt+E5501,2019,18
+Zinc : HF Digest : Dry Wt+E5501,2020,10
+Zinc : HF Digest : Dry Wt+E5501,2021,53
+Zinc : HF Digest : Dry Wt+E5501,2022,48
+Zinc : HF Digest : Dry Wt+E5501,2023,36
+Zinc : HF Digest : Dry Wt+E5501,Total,508
+Zinc : Wet Wt,2000,15
+Zinc : Wet Wt,2001,15
+Zinc : Wet Wt,2002,21
+Zinc : Wet Wt,2003,21
+Zinc : Wet Wt,2004,21
+Zinc : Wet Wt,2005,37
+Zinc : Wet Wt,2006,19
+Zinc : Wet Wt,2007,18
+Zinc : Wet Wt,2008,21
+Zinc : Wet Wt,2009,17
+Zinc : Wet Wt,2010,18
+Zinc : Wet Wt,2011,16
+Zinc : Wet Wt,2012,12
+Zinc : Wet Wt,2013,12
+Zinc : Wet Wt,2014,48
+Zinc : Wet Wt,2015,15
+Zinc : Wet Wt,2016,12
+Zinc : Wet Wt,2017,9
+Zinc : Wet Wt,2018,12
+Zinc : Wet Wt,2019,12
+Zinc : Wet Wt,2021,6
+Zinc : Wet Wt,2022,6
+Zinc : Wet Wt,2023,6
+Zinc : Wet Wt,Total,389
